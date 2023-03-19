@@ -86,7 +86,7 @@ created successfully!
 
 ### Routes
 
-Your API should have the following routes as well as the associated controller
+Your API should have the following routes arails g controller Plants --no-test-frameworks well as the associated controller
 actions that return the appropriate JSON data:
 
 #### Index Route
